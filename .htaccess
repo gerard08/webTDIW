@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "ReTech"
+AuthUserFile /home/TDIW/tdiw-c9/public_html/.htpasswd
+Require valid-user
